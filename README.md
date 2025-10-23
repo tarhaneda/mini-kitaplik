@@ -1,8 +1,7 @@
 # mini-kitaplik
 kitaplık ödevim
-# Proje Adı
+#mini-kitaplık
 
-Bu benim projemin açıklaması.
 
 ## Canlı Demo
 
